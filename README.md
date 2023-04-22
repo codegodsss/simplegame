@@ -1,1 +1,5 @@
 # simplegame
+
+
+
+already fixed
